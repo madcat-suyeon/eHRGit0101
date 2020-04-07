@@ -76,4 +76,5 @@ data.song = "너에게로 초대";
 __강조텍스트__  
 강조텍스트  
 
-  ![](https://github.com/madcat-suyeon/eHRGit0101/blob/master/cat.jpg "고양")
+이미지 넣기
+  ![고양](https://github.com/madcat-suyeon/eHRGit0101/blob/master/cat.jpg "Meow")
